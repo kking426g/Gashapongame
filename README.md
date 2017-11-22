@@ -1,0 +1,2 @@
+# Gashapongame
+Gashapon game
